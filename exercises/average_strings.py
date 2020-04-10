@@ -1,4 +1,5 @@
 #Encuentre la longitud promedio de la siguiente lista de cadenas
+#elaboro: liviere mercado manzano
 words = [
     'seat',
     'correspond',

@@ -1,3 +1,4 @@
+#elaboro: liviere mercado manzano
 #Este programa necesita devolver el número de veces que esa palabra aparece en la lista.
 # Si el elemento no está en la lista, ponga 0 en el contador.
 words = [

@@ -1,3 +1,4 @@
+#elaboro: liviere mercado manzano
 #Usando la siguiente lista
 # elimine los valores duplicados e imprima la lista sin ningún duplicado.
 words = [

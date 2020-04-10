@@ -1,3 +1,4 @@
+#elaboro: liviere mercado manzano
 #Reciba dos números (desde el teclado) e imprima el más grande. Si ambos números son iguales
 #  imprima un mensaje relacionado con ambos son iguales.
 valor1=int(input("Ingrese primer valor: "))
