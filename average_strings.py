@@ -38,7 +38,7 @@ total = 0
 average = float(total) / float(len(words))
 print(name, f"the average length of the following list of strings is: {average:.2f}")""" #First method
 
-print(mean([len(i) for i in words])) #Shorter method
+print(name, "the average length of the following list of strings is: ", mean([len(i) for i in words])) #Shorter method
 
 
 
