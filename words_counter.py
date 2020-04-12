@@ -14,3 +14,29 @@
   'disobedience'
   'matter'
 ]"""
+
+name = input("Input your name: ")
+print("Welcome", name)
+
+words = [
+  'machine',
+  'matter',
+  'subset',
+  'trouble',
+  'starting',
+  'matter',
+  'eating',
+  'matter',
+  'truth',
+  'disobedience',
+  'matter'
+]
+search = input("Input the name of the value you want to search: ")
+
+if search in words:
+    count = words.count(search)
+    print(name, "word - count", count, "times")
+else:
+    print(name, "word - count: 0 times")
+
+
