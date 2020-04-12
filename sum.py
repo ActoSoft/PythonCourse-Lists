@@ -8,10 +8,11 @@ print("Welcome", name)
 numbers = [6, 12, 1, 18, 13, 16, 2, 1, 8, 10]
 
 average = sum(numbers)
-print(name, "the sum of the numbers is: ", average)
+#print(name, "the sum of yours numbers is: ", average) "firt method"
 
+print(name, f"the sum of yours numbers is: {average:.2f}") #it´s the same only with floating point
 
-
+#The end
 
 
 
