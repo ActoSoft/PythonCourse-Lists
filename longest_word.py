@@ -10,5 +10,11 @@
   'crackpot'
 ]"""
 
+name = input("Input your name: ")
+print("Welcome", name)
+
+words = [ 'mystery', 'brother', 'aviator', 'crocodile', 'pearl', 'orchard', 'crackpot']
+longitud = len(words[3])
+print(longitud)
 
 
