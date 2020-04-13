@@ -9,3 +9,7 @@ elif valor1 < valor2:
     print(valor2 ,'es mayor')
 elif valor1 == valor2:
     print('son iguales')         
+
+#otra forma seria
+# max_number()
+# num_1=float(input)    
